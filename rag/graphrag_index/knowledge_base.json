@@ -1,0 +1,78 @@
+{
+  "amh_levels": {
+    "description": "Anti-M\u00fcllerian Hormone (AMH) indicates ovarian reserve",
+    "normal_ranges": {
+      "age_25_30": "2.0-6.8 ng/mL",
+      "age_31_35": "1.5-5.5 ng/mL",
+      "age_36_40": "1.0-3.5 ng/mL",
+      "age_41_45": "0.5-2.5 ng/mL"
+    },
+    "interpretation": {
+      "high": ">4.0 may indicate PCOS or high ovarian reserve",
+      "normal": "1.5-4.0 indicates adequate reserve for age",
+      "low": "<1.0 may indicate diminished ovarian reserve",
+      "very_low": "<0.5 suggests severely diminished reserve"
+    },
+    "clinical_notes": [
+      "AMH is relatively stable throughout menstrual cycle",
+      "Can be tested on any day",
+      "PCOS patients typically have elevated AMH",
+      "AMH alone doesn't predict fertility - must consider age, FSH, AFC"
+    ],
+    "sources": [
+      "ASRM 2023 Guidelines",
+      "Fertility & Sterility Journal"
+    ]
+  },
+  "pcos": {
+    "description": "Polycystic Ovary Syndrome - common endocrine disorder",
+    "diagnosis_criteria": "Rotterdam criteria: 2 of 3 - irregular cycles, hyperandrogenism, polycystic ovaries",
+    "fertility_impact": [
+      "Most common cause of anovulatory infertility",
+      "Can still conceive naturally with cycle regulation",
+      "First-line treatment: letrozole or clomiphene citrate",
+      "Lifestyle modification can restore ovulation in 30-50% of cases"
+    ],
+    "amh_relationship": "PCOS patients often have AMH >4-5 ng/mL due to follicle accumulation",
+    "sources": [
+      "ESHRE PCOS Guidelines 2023",
+      "ASRM Practice Committee"
+    ]
+  },
+  "fsh_levels": {
+    "description": "Follicle Stimulating Hormone - measured on cycle day 2-3",
+    "normal_range": "3-10 mIU/mL (day 2-3 of cycle)",
+    "interpretation": {
+      "normal": "<10 indicates normal ovarian function",
+      "borderline": "10-15 suggests diminished reserve",
+      "elevated": ">15 indicates poor ovarian response likely"
+    },
+    "clinical_notes": [
+      "Must be measured early follicular phase (day 2-3)",
+      "Elevated FSH suggests ovaries need more stimulation",
+      "Single high FSH can predict poor IVF response",
+      "Combine with AMH and AFC for complete assessment"
+    ],
+    "sources": [
+      "ASRM Ovarian Reserve Testing Guidelines"
+    ]
+  },
+  "cycle_tracking": {
+    "description": "Methods to identify fertile window",
+    "ovulation_signs": [
+      "LH surge 24-36 hours before ovulation",
+      "BBT rise of 0.5-1\u00b0F after ovulation",
+      "Cervical mucus becomes clear, stretchy (egg-white consistency)",
+      "Mild ovulation pain (mittelschmerz) in some women"
+    ],
+    "fertile_window": "5 days before ovulation + day of ovulation",
+    "timing_recommendations": [
+      "Intercourse every 1-2 days during fertile window optimal",
+      "Daily intercourse doesn't significantly improve odds",
+      "OPKs (LH tests) most accurate for predicting ovulation"
+    ],
+    "sources": [
+      "ASRM Optimizing Natural Fertility Guidelines"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+tanitenv/
+__pycache__/
+*.pyc
+*.ckpt
+.rag_index/
+COMPLETE_SETUP_GUIDE.md
+Dockerfile
+KAGGLE_SETUP.md
+QUICK_REFERENCE.md
+report.md
+report.pdf
+.gradio/
