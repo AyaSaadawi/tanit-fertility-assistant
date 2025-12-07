@@ -4,7 +4,7 @@
 
 [![Demo Video](https://img.shields.io/badge/Demo-Watch%20Now-ff69b4)](https://drive.google.com/file/d/17ynD5PT4X5b8nFb_U3iRfzCrl2KaNLVx/view?usp=sharing)
 
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF)](https://www.kaggle.com/code/ayasaadawi/kaggle-notebook)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF)](https://www.kaggle.com/code/ayasaadawi/tanit-fertility-assistant)  
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
