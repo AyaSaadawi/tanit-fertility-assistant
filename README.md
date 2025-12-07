@@ -2,9 +2,12 @@
 
 **The warm, magical AI companion helping millions navigate their fertility journey**
 
-[![Demo Video]([[https://img.shields.io/badge/Demo-Watch%20Now-ff69b4](https://drive.google.com/file/d/17ynD5PT4X5b8nFb_U3iRfzCrl2KaNLVx/view?usp=sharing)](https://drive.google.com/file/d/17ynD5PT4X5b8nFb_U3iRfzCrl2KaNLVx/view?usp=sharing))](YOUR_LOOM_LINK_HERE)
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF)](YOUR_KAGGLE_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/Demo-Watch%20Now-ff69b4)](https://drive.google.com/file/d/17ynD5PT4X5b8nFb_U3iRfzCrl2KaNLVx/view?usp=sharing)
+
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF)](https://www.kaggle.com/code/ayasaadawi/kaggle-notebook)
+
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ---
 
